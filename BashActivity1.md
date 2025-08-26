@@ -13,7 +13,7 @@ Description: lists the contents of your current working directory
 Output: Documents Downloads Music Desktop Snap
 
 4)ls -d
-Description: 
+Description: Directory
 Output: 
 
 5)ls -f
