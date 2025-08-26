@@ -6,18 +6,18 @@ Output:
 
 2)ls -b
 Description: Lists the names of files in a particular Unix directory
-Output: Desktop Documents Downloads Music Snap
+Output: 
 
 3)ls -c
 Description: lists the contents of your current working directory
-Output: Documents Downloads Music Desktop Snap
+Output: 
 
 4)ls -d
-Description: Directory
+Description: list information about files and directories within the file system
 Output: 
 
 5)ls -f
-Description: 
+Description: to list files
 Output: 
 ls -F
 Description: Appends a character to indicate file type
@@ -29,7 +29,7 @@ Output:
 
 7)ls -h
 Description: lists files and directories 
-Output: Desktop Documents Downloads Music Snap
+Output:
 
 8)ls -i
 Description: Displays the inode number of each file or directory.
@@ -45,11 +45,11 @@ Description: list information about files and directories within the file system
 Output: 
 
 11)ls -m
-Description: 
+Description: list information about files and directories within the file system
 Output: 
 
 12)ls -n
-Description: 
+Description: list information about files and directories within the file system
 Output: 
 
 13)ls -o
@@ -66,19 +66,19 @@ Output:
 
 16)ls -r
 Description: Reverses the order of sorting
-Output: Snap Music Downloads Documents Desktop
+Output: 
 
 17)ls -R
 Description: Lists the names of files in a particular Unix directory
-Output: ./Desktop:
+Output: 
 
 18)ls -s
-Description: 
+Description: list information about files and directories within the file system
 Output: 
 
 19)ls -t
 Description: Sorts files by modification time, with the newest files listed first
-Output: Documents Downloads Music Desktop Snap
+Output:
 
 20)ls -u
 Description: 
@@ -89,7 +89,7 @@ Description:
 Output: 
 
 22)ls -w
-Description: 
+Description: list the contents of a directory
 Output: 
 
 23)ls -x
